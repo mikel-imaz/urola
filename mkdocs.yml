@@ -1,0 +1,48 @@
+# Project information
+site_name: Urola. Camino de hierro y agua
+site_url: https://mikel-imaz.github.io/urola
+site_author: Mikel Imaz
+site_description: Un viaje por el valle del Urola
+
+# Copyright
+copyright: Copyright &copy; 2025 Mikel Imaz
+
+# Configuration
+theme:
+  name: material
+  language: es
+  palette:
+    primary: teal
+    accent: teal
+  features:
+    - navigation.instant
+    - navigation.indexes
+
+# Extensions
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Page tree
+nav:
+  - Inicio: index.md
+  - Libro: libro.md
+  - Librerías: librerias.md
+  - Blog:
+    - blog/index.md
+  - Más: otros.md
+  - Contacto: contacto.md
+
+# Plugins
+plugins:
+  - blog
+
+# For maps
+extra_javascript:
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+extra_css:
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
