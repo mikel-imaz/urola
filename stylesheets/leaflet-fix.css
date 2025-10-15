@@ -21,4 +21,9 @@
   .md-nav {
     z-index: 9999 !important;
   }
+
+  div#map .leaflet-pane {
+    z-index: 0 !important;
+  }
+  
   
