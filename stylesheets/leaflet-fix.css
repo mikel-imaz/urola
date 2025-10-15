@@ -1,0 +1,24 @@
+/* Fix Leaflet map overlapping Material for MkDocs navigation */
+#map {
+    position: relative;
+    z-index: 0; /* Push the map below the menu overlay */
+  }
+  
+  /* Lower z-index for map tiles and overlays */
+  .leaflet-pane,
+  .leaflet-tile,
+  .leaflet-overlay-pane,
+  .leaflet-shadow-pane,
+  .leaflet-marker-pane,
+  .leaflet-tooltip-pane,
+  .leaflet-popup-pane {
+    z-index: 0 !important;
+  }
+  
+  /* Make sure MkDocs Material drawer, header, and overlay are above */
+  .md-header,
+  .md-overlay,
+  .md-nav {
+    z-index: 9999 !important;
+  }
+  

@@ -54,6 +54,8 @@
     
       <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
     
+      <link rel="stylesheet" href="../stylesheets/leaflet-fix.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -555,16 +557,16 @@
   }).addTo(map);
 
   // Add markers for each shop
-  var shops = [
+  var sites = [
     { name: "Librería Legazpi", address: "Soraluze 4, Zumarraga", coords: [43.09076646470659, -2.3140156339150932] },
     { name: "Librería Urki", address: "Secundino Esnaola 3, Zumarraga", coords: [43.088030455030015, -2.3199658610375185] },
     { name: "Librería Aresti", address: "Labeaga 41, Urretxu", coords: [43.08928798995817, -2.319368241611099] }
   ];
 
-  shops.forEach(shop => {
-    L.marker(shop.coords)
+  sites.forEach(site => {
+    L.marker(site.coords)
       .addTo(map)
-      .bindPopup(`<b>${shop.name}</b><br>${shop.address}`);
+      .bindPopup(`<b>${site.name}</b><br>${site.address}`);
   });
 </script>
 
