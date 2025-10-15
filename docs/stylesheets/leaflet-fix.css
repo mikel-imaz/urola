@@ -1,0 +1,18 @@
+/* Ensure Leaflet map stays below the MkDocs Material menu and overlays */
+#map {
+  position: relative;
+  z-index: 0;
+}
+
+/* Lower Leaflet layers only */
+.leaflet-pane,
+.leaflet-tile,
+.leaflet-overlay-pane,
+.leaflet-shadow-pane,
+.leaflet-marker-pane,
+.leaflet-tooltip-pane,
+.leaflet-popup-pane {
+  z-index: 1 !important;
+}
+
+/* Do NOT modify Material for MkDocs overlay or header z-index */

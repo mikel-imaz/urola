@@ -1,8 +1,8 @@
 ---
-icon: material/book-plus
+icon: material/book-open-page-variant-outline
 ---
 
-# :material-book-plus: Otro libro del autor
+# :material-book-open-page-variant-outline: &nbsp; Del mismo autor
 
 De Camino Tu Santiago. Un viaje a pie (2019)
 

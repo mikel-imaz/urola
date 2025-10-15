@@ -2,7 +2,7 @@
 icon: material/face-man
 ---
 
-# :material-face-man: Contacto
+# :material-face-man: &nbsp; Contacto
 
 <form
   action="https://formspree.io/f/xzzjkapp"

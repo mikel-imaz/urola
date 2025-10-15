@@ -1,4 +1,8 @@
-# Un viaje por el valle del Urola
+---
+icon: material/book-open-page-variant
+---
+
+# :material-book-open-page-variant: &nbsp; Un viaje por el valle del Urola
 
 ![libro](imgs/urola_3D.png){ width="450" }
 
