@@ -4,7 +4,7 @@ icon: material/fountain-pen-tip
 
 # :material-fountain-pen-tip: &nbsp; Citas
 
-Escritores viajeros por el valle del Urola.
+Escritores viajeros y el valle.
 
 <div id="map" style="height: 400px;"></div>
 
@@ -27,6 +27,7 @@ Escritores viajeros por el valle del Urola.
     { name: "Azorín", address: "«A un lado, a la izquierda, se yergue una empinada ladera exornada de robles y castaños; a otro lado, a la derecha, un río pasa manso, verdoso, entre boscaje lujuriante. Y veis, allá en la ingente lejanía, colgadas, agarradas a la tierra, casitas blancas, con la techumbre roja, que se os antoja que van a comenzar a rodar por las laderas» → Veraneo sentimental (1904)", coords: [43.124476118971806, -2.3481776862020096] },
     { name: "Jovellanos", address: "«[...] y en un corralillo, otra fuente con dos caños, que caen en dos alberquitas hondas, formadas de pizarras, que son los baños, al raso; todo ruin; el agua no llega al grado de tibia, sino como caldeada al sol» → (1797)", coords: [43.23187271723896, -2.2581062183982805] },
     { name: "Pío Baroja", address: "«Cuando cierro los ojos, todavía me represento el caserío del pueblo desde el otro lado del río Urola» → Autobiografía (1944)", coords: [43.237906624043625, -2.2581201319589304] },
+    { name: "Rousseau", address: "«Nos unimos tan bien, que formamos el proyecto de pasar nuestros días juntos. Debía yo, dentro de algunos años, ir a Azcoitia para vivir con él en su tierra» → Las confesiones (1782)", coords: [43.176444165584535, -2.3147721530180294] },
     ];
 
   sites.forEach(site => {

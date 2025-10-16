@@ -4,8 +4,6 @@ icon: material/book-open-page-variant-outline
 
 # :material-book-open-page-variant-outline: &nbsp; Del mismo autor
 
-De Camino Tu Santiago. Un viaje a pie (2019)
-
 ![](imgs/dcts.png){ width="450" }
 
 [:simple-youtube: booktrailer](https://www.youtube.com/watch?v=lUGvayHPuvs)

@@ -16,7 +16,7 @@ icon: material/map-outline
 
     ---
     
-    Escritores viajeros por el valle.
+    Escritores viajeros y el valle.
 
 
 </div>
