@@ -4,6 +4,7 @@ icon: material/face-man
 
 # :material-face-man: &nbsp; Contacto
 
+
 <form
   action="https://formspree.io/f/xzzjkapp"
   method="POST"
@@ -51,8 +52,9 @@ icon: material/face-man
   </button>
 </form>
 
-<p style="margin-top:1em;font-size:0.9em;color:var(--md-default-fg-color--light);">
-  This form is powered by <a href="https://formspree.io/" target="_blank">Formspree</a>.
-</p>
 
+&nbsp;
 
+O si lo prefieres escríbeme a:
+
+<a href="mailto:da7uak&#64;gmail&#46;com">da7uak&#64;gmail&#46;com</a>
