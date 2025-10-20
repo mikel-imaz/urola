@@ -28,12 +28,20 @@ Librerías en las que se puede comprar el libro:
     L.marker(site.coords)
       .addTo(map)
       .bindPopup(`<b>${site.name}</b><br>${site.address}`)
-      //.bindTooltip(site.name, { 
-      //  permanent: true, 
-      //  direction: 'right',   // can be 'top', 'bottom', 'left', 'right', or 'auto'
-      //  offset: [5, 0],       // slight horizontal offset
-      //  opacity: 0.8          // optional, to make it less intrusive
-      //});
+      .bindTooltip(site.name, { 
+       permanent: true, 
+       direction: 'right',   // can be 'top', 'bottom', 'left', 'right', or 'auto'
+       offset: [5, 0],       // slight horizontal offset
+       opacity: 0.8          // optional, to make it less intrusive
+      });
   });
 </script>
 
+__Librería Legazpi__  
+Soraluze 4, Zumarraga
+
+__Librería Urki__  
+Secundino Esnaola 3, Zumarraga
+
+__Librería Aresti__  
+Labeaga 41, Urretxu
