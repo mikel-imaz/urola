@@ -685,14 +685,21 @@
     L.marker(site.coords)
       .addTo(map)
       .bindPopup(`<b>${site.name}</b><br>${site.address}`)
-      //.bindTooltip(site.name, { 
-      //  permanent: true, 
-      //  direction: 'right',   // can be 'top', 'bottom', 'left', 'right', or 'auto'
-      //  offset: [5, 0],       // slight horizontal offset
-      //  opacity: 0.8          // optional, to make it less intrusive
-      //});
+      .bindTooltip(site.name, { 
+       permanent: true, 
+       direction: 'right',   // can be 'top', 'bottom', 'left', 'right', or 'auto'
+       offset: [5, 0],       // slight horizontal offset
+       opacity: 0.8          // optional, to make it less intrusive
+      });
   });
 </script>
+
+<p><strong>Librería Legazpi</strong><br />
+Soraluze 4, Zumarraga</p>
+<p><strong>Librería Urki</strong><br />
+Secundino Esnaola 3, Zumarraga</p>
+<p><strong>Librería Aresti</strong><br />
+Labeaga 41, Urretxu</p>
 
 
 
