@@ -1,8 +1,8 @@
 ---
-icon: material/newspaper-variant
+icon: material/newspaper
 ---
 
-# :material-newspaper-variant: &nbsp; Blog
+# :material-newspaper: &nbsp; Blog
 
 Este blog recoge información de los eventos relacionados con la publicación del libro.
 

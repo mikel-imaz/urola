@@ -14,11 +14,10 @@ icon: material/book-open-page-variant
 
 <div class="grid cards" markdown>
 
-- [:material-bookshelf: &nbsp; Librerías](librerias.md)
-- [:material-newspaper-variant: &nbsp; Blog](blog/index.md)
-- [:material-map-outline: &nbsp; Mapas](mapas/index.md)
-- [:octicons-link-external-16: &nbsp; Enlaces](enlaces.md)
-- [:material-book-open-page-variant-outline: &nbsp; Del mismo autor](otros.md)
+- [:material-bookshelf: &nbsp; Comprar](librerias.md)
+- [:material-newspaper: &nbsp; Blog](blog/index.md)
+- [:material-paperclip: &nbsp; Extras](extras/index.md)
+- [:material-plus: &nbsp; Más](otros.md)
 - [:material-face-man: &nbsp; Contacto](contacto.md)
 
 </div>

@@ -4,8 +4,6 @@ icon: material/bookshelf
 
 # :material-bookshelf: &nbsp; Librerías
 
-Librerías en las que se puede comprar el libro:
-
 <div id="map" style="height: 400px;"></div>
 
 <script>
@@ -37,7 +35,7 @@ Librerías en las que se puede comprar el libro:
   });
 </script>
 
-__Librería Legazpi__  
+[__Librería Legazpi__  ](https://share.google/7YRDGNSrKQEtFgyut)  
 Soraluze 4, Zumarraga
 
 __Librería Urki__  

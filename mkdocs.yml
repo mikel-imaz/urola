@@ -23,7 +23,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - admonition
   - pymdownx.blocks.caption
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -31,14 +33,14 @@ markdown_extensions:
 # Page tree
 nav:
   - Inicio: index.md
-  - Librerías: librerias.md
+  - Comprar: librerias.md
   - Blog:
     - blog/index.md
-  - Mapas:
-    - mapas/index.md
-    - Lugares: mapas/lugares.md
-    - Citas: mapas/citas.md
-  - Enlaces: enlaces.md
+  - Extras:
+    - extras/index.md
+    - Fotos: extras/fotos.md
+    - YouTube: extras/videos.md
+    - Localizaciones: extras/mapas.md
   - Más: otros.md
   - Contacto: contacto.md
 

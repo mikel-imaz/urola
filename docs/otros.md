@@ -1,8 +1,8 @@
 ---
-icon: material/book-open-page-variant-outline
+icon: material/plus
 ---
 
-# :material-book-open-page-variant-outline: &nbsp; Del mismo autor
+# :material-plus: &nbsp; Del mismo autor
 
 ![](imgs/dcts.png){ width="450" }
 
