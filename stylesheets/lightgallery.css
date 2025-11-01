@@ -25,5 +25,23 @@
   .photo-grid a:hover img {
     transform: scale(1.05);
   }
+
+ /* Make full caption text larger inside lightGallery */
+.lg-sub-html * {
+  font-size: 1.1rem !important;
+  line-height: 1.5;
+}
+
+/* Optional: extra breathing room */
+.lg-sub-html {
+  padding: 12px;
+}
+
+.lg-sub-html a {
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+
   
   
