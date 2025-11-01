@@ -703,7 +703,7 @@
 
 </div>
 
-<script>
+<!-- <script>
 document.addEventListener("DOMContentLoaded", () => {
   lightGallery(document.getElementById('gallery'), {
     plugins: [lgZoom],
@@ -711,6 +711,21 @@ document.addEventListener("DOMContentLoaded", () => {
     download: false
   });
 });
+</script> -->
+
+<script>
+  // Re-run gallery setup every time MkDocs loads a page
+  document$.subscribe(() => {
+    const gallery = document.getElementById('gallery');
+    if (gallery && !gallery.classList.contains('lg-initialized')) {
+      lightGallery(gallery, {
+        plugins: [lgZoom],
+        zoom: true,
+        download: false
+      });
+      gallery.classList.add('lg-initialized');
+    }
+  });
 </script>
 
 
