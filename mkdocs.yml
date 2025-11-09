@@ -1,0 +1,56 @@
+# Project information
+site_name: Urola. Camino de hierro y agua
+site_url: https://mikel-imaz.github.io/urola
+site_author: Mikel Imaz
+site_description: Un viaje por el valle del Urola
+
+# Copyright
+copyright: Copyright &copy; 2025 Mikel Imaz
+
+# Configuration
+theme:
+  name: material
+  language: es
+  palette:
+    primary: teal
+    accent: teal
+  features:
+    - navigation.instant
+    - navigation.indexes
+
+# Extensions
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
+  - pymdownx.blocks.caption
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Page tree
+nav:
+  - Libro: index.md
+  - Comprar: comprar.md
+  - Noticias: blog.md
+  - Extras:
+    - extras/index.md
+    - Fotos: extras/fotos.md
+    - Vídeos: extras/videos.md
+    - Mapas: extras/mapas.md
+  - Otro viaje: otro.md
+  - Contacto: contacto.md
+
+# Extras
+extra_javascript:
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+  - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/lightgallery.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/plugins/zoom/lg-zoom.min.js
+  - javascripts/gallery-init.js
+extra_css:
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+  - stylesheets/leaflet-fix.css
+  - stylesheets/lightgallery.css
+  - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lightgallery.min.css

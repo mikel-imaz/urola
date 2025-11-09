@@ -1,0 +1,35 @@
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 12px;
+  }
+  
+  .photo-grid a {
+    display: block;
+    width: 100%;
+    aspect-ratio: 3 / 2; /* force aspect ratio tiles */
+    overflow: hidden;
+    border-radius: 6px;
+  }
+  
+  .photo-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* crop vertical images */
+  }
+
+  .photo-grid img {
+    transition: transform 0.25s ease;
+  }
+  
+  .photo-grid a:hover img {
+    transform: scale(1.05);
+  }
+
+.lg-sub-html a {
+  text-decoration: underline;
+}
+
+
+  
+  
