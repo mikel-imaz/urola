@@ -4,14 +4,21 @@ icon: material/cart
 
 # :material-cart: &nbsp; Comprar
 
-Para comprar el libro contacta conmigo por [WhatsApp](#):
+<div class="grid cards" markdown>
 
-[![WhatsApp](imgs/whatsapp-icon.svg){ width="50" }](#)
+- ![Image](imgs/urola_hand-in_bg.jpg)
 
-O por [email](contacto.md):
+    Contacta conmigo:
 
-[![email](imgs/email-address.svg){ width="60" }](contacto.md)
+    [![email](imgs/email-address.svg){ width="60" }](contacto.md)
 
-También puedes adquirirlo directamente en [Amazon](https://amzn.eu/d/i53m6sb):
+    ![WhatsApp](imgs/whatsapp-icon.svg){ width="50" }
+    _(*muy pronto)_
 
-[![Amazon](imgs/amazon-logo.svg){ width="100" }](https://amzn.eu/d/i53m6sb)
+- ![urola_amz](imgs/urola_amz.jpg)
+
+    También puedes adquirirlo directamente en:
+
+    [![Amazon](imgs/amazon-logo.svg){ width="100" }](https://amzn.eu/d/i53m6sb)
+
+</div>

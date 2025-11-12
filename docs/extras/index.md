@@ -10,13 +10,13 @@ icon: material/paperclip
 
     ---
 
-    Enlaces a fotografías.
+    Enlaces a fotografías históricas.
 
 -   :material-video: &nbsp; [__Vídeos__](videos.md)
 
     ---
 
-    Enlaces a vídeos.
+    Enlaces a vídeos en YouTube.
 
 -   :material-map-outline: &nbsp; [__Mapas__](mapas.md)
 

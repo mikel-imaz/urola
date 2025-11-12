@@ -8,9 +8,19 @@ _De Camino Tu Santiago. Un viaje a pie_ (2019)
 
 ![](imgs/dcts.png){ width="450" }
 
-[:simple-youtube: :material-arrow-down-right:](https://www.youtube.com/watch?v=lUGvayHPuvs)
+<!-- [:simple-youtube: :material-arrow-down-right:](https://www.youtube.com/watch?v=lUGvayHPuvs)
 
-[![Watch the video](https://img.youtube.com/vi/lUGvayHPuvs/hqdefault.jpg)](https://www.youtube.com/watch?v=lUGvayHPuvs)
+[![Watch the video](https://img.youtube.com/vi/lUGvayHPuvs/hqdefault.jpg)](https://www.youtube.com/watch?v=lUGvayHPuvs) -->
+
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/lUGvayHPuvs"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 
 Opiniones de los lectores: (1)

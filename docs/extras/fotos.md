@@ -6,9 +6,23 @@ icon: material/camera
 
 !!! info "Galería de imágenes"
 
-    Entra haciendo clic en cualquier foto. Para salir de la galería arrastra la foto y suéltala.
+    Entra haciendo clic en cualquier foto. Para salir de la galería arrastra hacia fuera la foto y suéltala.
 
 <div id="gallery" class="photo-grid">
+
+  <a 
+    href="explanada_estaciones.jpg"
+    data-sub-html='<p>Explanada de las estaciones (Zumarraga) — <a href="" target="_blank">?</a></p>'
+  >
+    <img src="explanada_estaciones_thumb.jpg" alt="">
+  </a>
+
+  <a 
+    href="hotel_urola.jpg"
+    data-sub-html='<p>Hotel Ugalde, después Hotel Urola (Zumarraga) — <a href="" target="_blank">?</a></p>'
+  >
+    <img src="hotel_urola_thumb.jpg" alt="">
+  </a>
 
   <a 
     href="https://kutxateka.eus/media/images/1/0/9/6/40851_ca_object_representations_media_109619_original.jpg"
@@ -39,8 +53,36 @@ icon: material/camera
   </a>
 
   <a 
+    href="http://www.guregipuzkoa.eus/wp-content/gallery/indalecio-ojanguren/789.jpg"
+    data-sub-html='<p>Balneario de San Juan (Azkoitia) — <a href="https://www.guregipuzkoa.eus/irudia/?pid=651" target="_blank">Gure Gipuzkoa</a></p>'
+  >
+    <img src="balneario_sanjuan_thumb.jpg" alt="">
+  </a>
+
+  <a 
+    href="http://www.guregipuzkoa.eus/wp-content/gallery/indalecio-ojanguren/875.jpg"
+    data-sub-html='<p>Puente de Amu (Azpeitia, 1918) — <a href="https://www.guregipuzkoa.eus/?s=Amue#gallery/8f93b8f154335ceb9e336a9dd6180161/738/comments" target="_blank">Gure Gipuzkoa</a></p>'
+  >
+    <img src="amu_thumb.jpg" alt="">
+  </a>
+
+  <a 
+    href="complejo_balneario.jpg"
+    data-sub-html='<p>Complejo del balneario de Cestona (Zestoa) — <a href=""_blank">?</a></p>'
+  >
+    <img src="complejo_balneario_thumb.jpg" alt="">
+  </a>
+
+  <a 
+    href="diligencia.jpg"
+    data-sub-html='<p>Llegada de diligencia al balneario de Cestona (Zestoa) — <a href=""_blank">?</a></p>'
+  >
+    <img src="diligencia_thumb.jpg" alt="">
+  </a>
+
+  <a 
     href="https://kutxateka.eus/media/images/1/6/1/9/29626_ca_object_representations_media_161931_original.jpg"
-    data-sub-html='<p>Gran Hotel del Balneario inundado (Zestoa, 1953) — <a href="https://kutxateka.eus/index.php/Detail/objects/161931" target="_blank">Kutxateka</a></p>'
+    data-sub-html='<p>Gran Hotel del balneario inundado (Zestoa, 1953) — <a href="https://kutxateka.eus/index.php/Detail/objects/161931" target="_blank">Kutxateka</a></p>'
   >
     <img src="29626_ca_object_representations_media_161931_original_thumb.jpg" alt="">
   </a>
@@ -61,9 +103,16 @@ icon: material/camera
 
   <a 
     href="baliza_zumaia.jpg"
-    data-sub-html='<p>Antigua baliza de entrada a puerto (Zumaia, ?) — <a href="">Archivo Municipal Zumaia</a></p>'
+    data-sub-html='<p>Antigua baliza de entrada a puerto (Zumaia) — <a href="">Archivo Municipal Zumaia</a></p>'
   >
     <img src="baliza_zumaia_thumb.jpg" alt="">
+  </a>
+
+  <a 
+    href="https://kutxateka.eus/media/images/2/9/6/0/42162_ca_object_representations_media_296007_original.jpg"
+    data-sub-html='<p>Playa de Santiago (Zumaia, 1920) — <a href="https://kutxateka.eus/index.php/Detail/objects/320521/s/24">Kutxateka</a></p>'
+  >
+    <img src="zumaia_santiago_thumb.jpg" alt="">
   </a>
 
 </div>

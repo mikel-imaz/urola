@@ -32,9 +32,10 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Libro: index.md
+  - Inicio: index.md
+  - Libro: libro.md
   - Comprar: comprar.md
-  - Noticias: blog.md
+  - Noticias: noticias.md
   - Extras:
     - extras/index.md
     - Fotos: extras/fotos.md

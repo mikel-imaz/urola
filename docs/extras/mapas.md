@@ -21,7 +21,7 @@ icon: material/map-outline
   var sites = [
     { name: "Manantial", address: "Nacedero del Urola", coords: [42.9779253, -2.3396750] },
     { name: "Pozo", address: "Excavación nº5 del túnel de Oazurza", coords: [42.98462521497178, -2.318074763432768] },
-    { name: "Túmulo", address: "Cantera Harrobizabal", coords: [42.999534, -2.320591] },
+    { name: "Iglú", address: "Cantera Harrobizabal", coords: [42.999534, -2.320591] },
     { name: "Mojón", address: "Sel de Jarondo", coords: [42.9938508160, -2.3675153130] },
     { name: "Bocamina", address: "Mina de lignito Sin Nombre", coords: [43.24122523019918, -2.2383105208115057] },
     { name: "Recta", address: "Tramo largo de túneles y puentes", coords: [43.141464368796534, -2.3487246281929615] },
