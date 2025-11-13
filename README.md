@@ -5,3 +5,7 @@
 
 ## Book landing page
 Website for my book: _Urola. Camino de hierro y agua_
+
+![Image 1](docs/imgs/mikel-imaz.github.io_urola_1.png)
+
+![Image 2](docs/imgs/mikel-imaz.github.io_urola_2.png)

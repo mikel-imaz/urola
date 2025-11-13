@@ -10,7 +10,7 @@ icon: material/paperclip
 
     ---
 
-    Enlaces a fotografías históricas.
+    Enlaces a fotografías antiguas relacionadas con los pasajes del libro.
 
 -   :material-video: &nbsp; [__Vídeos__](videos.md)
 
@@ -22,7 +22,7 @@ icon: material/paperclip
 
     ---
     
-    Localizaciones varias.
+    Localizaciones de lugares recogidos en el libro.
 
 
 </div>

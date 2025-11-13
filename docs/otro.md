@@ -4,13 +4,11 @@ icon: material/bookshelf
 
 # :material-bookshelf: &nbsp; Otro viaje
 
-_De Camino Tu Santiago. Un viaje a pie_ (2019)
+<span style="font-size:1.1em;">
+De Urretxu a Santiago. Un viaje a pie (2019)
+</span>
 
 ![](imgs/dcts.png){ width="450" }
-
-<!-- [:simple-youtube: :material-arrow-down-right:](https://www.youtube.com/watch?v=lUGvayHPuvs)
-
-[![Watch the video](https://img.youtube.com/vi/lUGvayHPuvs/hqdefault.jpg)](https://www.youtube.com/watch?v=lUGvayHPuvs) -->
 
 
 <iframe width="560" height="315"
@@ -42,4 +40,4 @@ Opiniones de los lectores: (1)
 
     "Después de leer el libro me han dado ganas de hacer el Camino."
 
-Disponible en [:fontawesome-brands-amazon: Amazon](https://amzn.eu/d/dbhctHC)
+Disponible en [Amazon](https://amzn.eu/d/dbhctHC).

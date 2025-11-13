@@ -14,6 +14,24 @@ icon: material/book-open-page-variant
 
 &nbsp;
 
+__:material-text: &nbsp; Ficha técnica__
+
+
+`Título:` __Urola__  
+`Subtítulo:` __Camino de hierro y agua__  
+`Subtítulo descriptivo:` __Un viaje por el valle del Urola__  
+`Autor:` Mikel Imaz  
+`Editorial:` Autopublicación (2025)  
+`Género:` Literatura de viajes  
+`Extensión:` 350 págs.  
+`Imágenes:` 100 (fotografías, mapas, ilustraciones, en blanco y negro)  
+`Sinopsis:` (1)
+{ .annotate }
+
+1. Durante el confinamiento, el autor, desde su balcón, contempla el río y la estación abandonada. La vegetación crece sobre la vieja terminal del ferrocarril del Urola, símbolo en su época del progreso en el valle. Las aguas del río por su parte fluyen como siempre, indiferentes al estado de alarma. Este contraste despierta en el observador el interés por indagar en los orígenes del desarrollo en su entorno, muy ligado a la industria del hierro. Proyecta además un viaje para recorrer lugares importantes del pasado que hoy están olvidados e invadidos por la naturaleza. Siguiendo la pista del agua y del ferrocarril, cuyos cursos se entrelazan en el valle del Urola, buscará ese verano unir sus puntos en una línea.
+
+&nbsp;
+
 <div class="grid cards" markdown>
 
 - ![urola_012](imgs/urola_012.jpg)
@@ -41,24 +59,6 @@ icon: material/book-open-page-variant
     > :fontawesome-solid-quote-left-alt: Me metí directamente, no me sobraba el tiempo. De su interior emanaba un reguero de agua entre las rocas varadas sobre la arena. :fontawesome-solid-quote-right-alt:
 
 </div>
-
-&nbsp;
-
-__:material-text: &nbsp; Ficha técnica__
-
-
-`Título:` __Urola__  
-`Subtítulo:` __Camino de hierro y agua__  
-`Subtítulo descriptivo:` __Un viaje por el valle del Urola__  
-`Autor:` Mikel Imaz  
-`Editorial:` Autopublicación (2025)  
-`Género:` Literatura de viajes  
-`Extensión:` 350 págs.  
-`Imágenes:` 100 (fotografías, mapas, ilustraciones, en blanco y negro)  
-`Sinopsis:` (1)
-{ .annotate }
-
-1. Durante el confinamiento, el autor, desde su balcón, contempla el río y la estación abandonada. La vegetación crece sobre la vieja terminal del ferrocarril del Urola, símbolo en su época del progreso en el valle. Las aguas del río por su parte fluyen como siempre, indiferentes al estado de alarma. Este contraste despierta en el observador el interés por indagar en los orígenes del desarrollo en su entorno, muy ligado a la industria del hierro. Proyecta además un viaje para recorrer lugares importantes del pasado que hoy están olvidados e invadidos por la naturaleza. Siguiendo la pista del agua y del ferrocarril, cuyos cursos se entrelazan en el valle del Urola, buscará ese verano unir sus puntos en una línea.
 
 &nbsp;
 
