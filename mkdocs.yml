@@ -17,6 +17,7 @@ theme:
   features:
     - navigation.instant
     - navigation.indexes
+    - navigation.footer
 
 # Extensions
 markdown_extensions: 
@@ -55,3 +56,8 @@ extra_css:
   - stylesheets/leaflet-fix.css
   - stylesheets/lightgallery.css
   - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lightgallery.min.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/da7uak/
