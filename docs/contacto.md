@@ -58,3 +58,8 @@ icon: material/face-man
 O si lo prefieres escríbeme a:
 
 <a href="mailto:da7uak&#64;gmail&#46;com">da7uak&#64;gmail&#46;com</a>
+
+O envíame un mensaje:
+
+![WhatsApp](imgs/whatsapp.svg){ width="50" } &nbsp;&nbsp;
+[![Instagram](imgs/instagram.svg){ width="50" }](https://www.instagram.com/mikelimaz_) &nbsp;&nbsp;
