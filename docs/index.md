@@ -1,3 +1,7 @@
+---
+icon: material/book-open-blank-variant-outline
+---
+
 # Un viaje por el valle del Urola
 
 ![urola_cover](imgs/urola_cover_bg.jpg){ width="450" }
