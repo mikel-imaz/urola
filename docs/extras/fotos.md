@@ -25,6 +25,13 @@ icon: material/camera
   </a>
 
   <a 
+    href="estac_zum.jpg"
+    data-sub-html='<p>Estación del Norte (Zumarraga) — <a href="" target="_blank">?</a></p>'
+  >
+    <img src="estac_zum_thumb.jpg" alt="">
+  </a>
+
+  <a 
     href="https://kutxateka.eus/media/images/1/0/9/6/40851_ca_object_representations_media_109619_original.jpg"
     data-sub-html='<p>Llegada a la estación del Norte de Alfonso XIII (Zumarraga, 22/02/1926) — <a href="https://kutxateka.eus/index.php/Detail/objects/193123" target="_blank">Kutxateka</a></p>'
   >
@@ -39,6 +46,20 @@ icon: material/camera
   </a>
 
   <a 
+    href="ormaiztegi.jpg"
+    data-sub-html='<p>Electrificación del viaducto (Ormaiztegi, 1929) — <a href="" target="_blank">?</a></p>'
+  >
+    <img src="ormaiztegi_thumb.jpg" alt="">
+  </a>
+
+  <a 
+    href="sudexpreso.jpg"
+    data-sub-html='<p>Descarrilamiento del Surexpreso Paris-Lisboa (Tolosa, 1924) — <a href="" target="_blank">Foto Ricardo Martin</a></p>'
+  >
+    <img src="sudexpreso_thumb.jpg" alt="">
+  </a>
+
+  <a 
     href="https://kutxateka.eus/media/images/3/8/4/42944_ca_object_representations_media_38430_original.jpg"
     data-sub-html='<p>Patricio Echeverría nombrado conde (Legazpi, 1958) — <a href="https://kutxateka.eus/index.php/Detail/objects/38430" target="_blank">Kutxateka</a></p>'
   >
@@ -46,10 +67,24 @@ icon: material/camera
   </a>
 
   <a 
+    href="talgo.jpg"
+    data-sub-html='<p>Descarrilamiento del Talgo Madrid-Irun (Vitoria-Gasteiz, 1953) — <a href="" target="_blank">Fotografía de Vicente López</a></p>'
+  >
+    <img src="talgo_thumb.jpg" alt="">
+  </a>
+
+  <a 
     href="tunel_zumarraga.jpg"
     data-sub-html='<p>Obra del túnel de Eitza (Zumarraga, 1863) — <a href="https://historiastren.blogspot.com/2014/09/la-construccion-del-ferrocarril-del.html" target="_blank">Archivo EuskoTren/Museo Vasco del Ferrocarril</a></p>'
   >
     <img src="tunel_zumarraga_thumb.jpg" alt="">
+  </a>
+
+  <a 
+    href="trabajadores.jpg"
+    data-sub-html='<p>Trabajadores del Ferrocarril del Norte (Zumarraga, 186?) — <a href="" target="_blank">Archivo EuskoTren/Museo Vasco del Ferrocarril</a></p>'
+  >
+    <img src="trabajadores_thumb.jpg" alt="">
   </a>
 
   <a 
@@ -85,6 +120,13 @@ icon: material/camera
     data-sub-html='<p>Gran Hotel del balneario inundado (Zestoa, 1953) — <a href="https://kutxateka.eus/index.php/Detail/objects/161931" target="_blank">Kutxateka</a></p>'
   >
     <img src="29626_ca_object_representations_media_161931_original_thumb.jpg" alt="">
+  </a>
+
+  <a 
+    href="via_inundada.jpg"
+    data-sub-html='<p>Inundaciones en Gipuzkoa, ferrocarril convertido en río (Beasain, 1953) — <a href="" target="_blank">?</a></p>'
+  >
+    <img src="via_inundada_thumb.jpg" alt="">
   </a>
 
   <a 

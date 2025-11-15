@@ -5,7 +5,7 @@ icon: material/bookshelf
 # :material-bookshelf: &nbsp; Otro viaje
 
 <span style="font-size:1.1em;">
-De Urretxu a Santiago. Un viaje a pie (2019)
+De Urretxu a Santiago (2019)
 </span>
 
 ![](imgs/dcts.png){ width="450" }
