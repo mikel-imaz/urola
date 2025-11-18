@@ -1,0 +1,8 @@
+/* more specific and robust */
+.grid.cards a.md-button.card-button,
+.grid.cards a.card-button {
+  display: block;           /* make it a block so margin auto can work */
+  width: max-content;       /* shrink the block to the button width */
+  margin: 0.6rem auto 0;    /* center horizontally, add a little top gap */
+  text-align: center;       /* center icon/text inside the button if needed */
+}

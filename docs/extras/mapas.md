@@ -6,6 +6,8 @@ icon: material/map-outline
 
 ## :material-map-marker: &nbsp; Lugares
 
+Localización de los sitios singulares que visito en el libro.
+
 <div id="map" style="height: 400px;"></div>
 
 <script>
@@ -55,6 +57,8 @@ icon: material/map-outline
 
 ## :material-fountain-pen-tip: &nbsp; Citas
 
+Sitúo en el mapa las citas de escritores viajeros que aparecen desperdigadas por el libro.
+
 <div id="map_citas" style="height: 400px;"></div>
 
 <script>
@@ -77,8 +81,8 @@ icon: material/map-outline
     { name: "Jovellanos", address: "«[...] y en un corralillo, otra fuente con dos caños, que caen en dos alberquitas hondas, formadas de pizarras, que son los baños, al raso; todo ruin; el agua no llega al grado de tibia, sino como caldeada al sol» → (1797)", coords: [43.23187271723896, -2.2581062183982805] },
     { name: "Pío Baroja", address: "«Cuando cierro los ojos, todavía me represento el caserío del pueblo desde el otro lado del río Urola» → Autobiografía (1944)", coords: [43.237906624043625, -2.2581201319589304] },
     { name: "Rousseau", address: "«Nos unimos tan bien, que formamos el proyecto de pasar nuestros días juntos. Debía yo, dentro de algunos años, ir a Azcoitia para vivir con él en su tierra» → Las confesiones (1782)", coords: [43.176444165584535, -2.3147721530180294] },
-    { name: "Pío Baroja", address: "«Este trozo de camino, desde Iraeta a Cestona, pasa entre dos montes y tiene en el fondo el río. De noche, sobre todo, el tal paraje es triste y siniestro» → Zalacaín el aventurero (1909)", coords: [43.247067267787806, -2.2598909578962263] },
     { name: "san Ignacio", address: "«[...] le pregunté al Peregrino cómo había hecho los Ejercicios. Él me dijo que no los había hecho todos de una vez, sino que todo aquello que observaba en su alma y encontraba útil, le parecía que podría ser útil a los demás; y así lo ponía por escrito. [...] el sistema de hacer elección me dijo que lo había sacado de aquella variedad de espíritu y pensamientos que tenía cuando en Loyola aún convalecía de las heridas de la pierna» → Autobiografía (1555)", coords: [43.17410491225235, -2.2823658202982315] },
+    { name: "Pío Baroja", address: "«Este trozo de camino, desde Iraeta a Cestona, pasa entre dos montes y tiene en el fondo el río. De noche, sobre todo, el tal paraje es triste y siniestro» → Zalacaín el aventurero (1909)", coords: [43.247067267787806, -2.2598909578962263] },
     ];
 
   sites.forEach(site => {
