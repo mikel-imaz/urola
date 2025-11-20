@@ -1,23 +1,27 @@
-document.addEventListener("DOMContentLoaded", function () {
-  // === EDIT ONLY THESE LINES ===
-  const contacts = {
-    whatsapp: "34626455709",                                // Your phone (international, no +, no dashes)
-    instagram: "mikelimaz_",                                // Without the @
-    email:    "da7uak@google.com",                          // Your email
-    amazon:   "https://amzn.eu/d/i53m6sb"                   // Direct link to your book OR your author page
-  };
+/* global document$ */
 
-  const whatsappText = "Hola! 📚";
-  // =============================
+const contacts = {
+  whatsapp: "34626455709",                                // Your phone (no +, no dashes)
+  instagram: "mikelimaz_",                  // Without the @
+  email:    "da7uak@gmail.com",
+  amazon:   "https://amzn.eu/d/i53m6sb"       // Your book / author page link
+};
 
+const whatsappText = "Hola!";
+
+// This function will run on first load AND on every navigation (instant or normal)
+document$.subscribe(function() {
   document.querySelectorAll(".contact-btn").forEach(btn => {
-    const platform = btn.dataset.platform;
+    // Clean any old handler first
+    if (btn._contactHandler) {
+      btn.removeEventListener("click", btn._contactHandler);
+    }
 
-    // Make it look clickable
+    const platform = btn.dataset.platform;
     btn.style.cursor = "pointer";
     btn.title = getTitle(platform);
 
-    btn.addEventListener("click", function () {
+    const handler = function() {
       let url = "";
 
       switch (platform) {
@@ -25,26 +29,26 @@ document.addEventListener("DOMContentLoaded", function () {
           url = `https://wa.me/${contacts.whatsapp}?text=${encodeURIComponent(whatsappText)}`;
           window.open(url, "_blank", "noopener");
           break;
-
         case "instagram":
           url = `https://instagram.com/${contacts.instagram}`;
           window.open(url, "_blank", "noopener");
           break;
-
         case "email":
           window.location.href = `mailto:${contacts.email}?subject=Question%20about%20your%20book`;
           break;
-
         case "amazon":
           window.open(contacts.amazon, "_blank", "noopener");
           break;
       }
-    });
+    };
+
+    btn.addEventListener("click", handler);
+    btn._contactHandler = handler;  // store for cleanup
   });
 
   function getTitle(platform) {
     const titles = {
-      whatsapp:  "Contacta conmigo por WhatsApp",
+      whatsapp:  "Ponme un WhatsApp",
       instagram: "Sígueme en Instagram",
       email:     "Envíame un email",
       amazon:    "Compra mi libro en Amazon"
