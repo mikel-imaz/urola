@@ -34,7 +34,7 @@ document$.subscribe(function() {
           window.open(url, "_blank", "noopener");
           break;
         case "email":
-          window.location.href = `mailto:${contacts.email}?subject=Question%20about%20your%20book`;
+          window.location.href = `mailto:${contacts.email}?subject=Sobre%20Urola`;
           break;
         case "amazon":
           window.open(contacts.amazon, "_blank", "noopener");

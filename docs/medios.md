@@ -14,22 +14,23 @@ __:octicons-pin-16: &nbsp; Próximas citas:__
 
 <div class="grid cards" markdown>
 
-- Feria [__Made In Urola__](https://www.instagram.com/madeinurola/)
+- __Feria__
 
     ---
 
-    __Arte y artesanía de Urola Garaia__  
-    :material-map-marker-radius: Zumarragako plazan  
-    :material-calendar: 21 diciembre (10:00-15:00)
+    :material-rss: &nbsp; [Arte y artesanía de Urola Garaia](https://www.instagram.com/madeinurola/)  
+    :material-map-marker-radius: &nbsp; Zumarragako plazan  
+    :material-calendar: &nbsp; 21 diciembre y 4 enero  
+    :material-clock-outline: &nbsp; 10:00-15:00
 
 
-- __Presentación-conversación__
+- __Presentaciones__
 
     ---
 
-    __Charlas con los y las lectoras__  
-    :material-map-marker-radius: Urretxu / Zumarraga  
-    :material-calendar: Enero-febrero de 2026
+    :material-rss: &nbsp; Conversaciones con l@s lectoras  
+    :material-map-marker-radius: &nbsp; Urretxu / Zumarraga  
+    :material-calendar: &nbsp; Enero-febrero de 2026
 
 </div>
 
