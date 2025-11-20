@@ -51,6 +51,8 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/lightgallery.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/plugins/zoom/lg-zoom.min.js
   - javascripts/gallery-init.js
+  - javascripts/contact.js
+
 extra_css:
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
   - stylesheets/leaflet-fix.css

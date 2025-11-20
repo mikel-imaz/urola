@@ -13,17 +13,17 @@ Precio:
 
 - ![Image](imgs/urola_hand-in_bg.jpg)
 
-    Contacta conmigo por [WhatsApp](comprar.md), [Instagram](https://www.instagram.com/mikelimaz_) o por [email](contacto.md):
+    Contacta conmigo:
 
-    ![WhatsApp](imgs/whatsapp.svg){ width="50" } &nbsp;&nbsp;
-    [![Instagram](imgs/instagram.svg){ width="50" }](https://www.instagram.com/mikelimaz_) &nbsp;&nbsp;
-    [![email](imgs/email.svg){ width="50" }](contacto.md)
+    ![WhatsApp](imgs/whatsapp.svg){ width="50" .contact-btn data-platform="whatsapp" } &nbsp;&nbsp;
+    ![Instagram](imgs/instagram.svg){ width="50" .contact-btn data-platform="instagram" } &nbsp;&nbsp;
+    [![email](imgs/email.svg){ width="50" .contact-btn }](contacto.md)
 
 
 - ![urola_amz](imgs/urola_amz.jpg)
 
-    También puedes adquirirlo directamente en [Amazon](https://amzn.eu/d/i53m6sb):
+    También puedes adquirirlo en Amazon:
 
-    [![Amazon](imgs/amazon.svg){ width="50" }](https://amzn.eu/d/i53m6sb)
+    ![Amazon](imgs/amazon.svg){ width="50" .contact-btn data-platform="amazon" }
 
 </div>

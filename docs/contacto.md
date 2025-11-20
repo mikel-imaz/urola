@@ -55,11 +55,11 @@ icon: material/face-man
 
 &nbsp;
 
-O si lo prefieres escríbeme a:
+O escríbeme un email: <a href="mailto:da7uak&#64;gmail&#46;com">da7uak&#64;gmail&#46;com</a>
 
-<a href="mailto:da7uak&#64;gmail&#46;com">da7uak&#64;gmail&#46;com</a>
+![email](imgs/email.svg){ width="50" .contact-btn data-platform="email" } 
 
 O envíame un mensaje:
 
-![WhatsApp](imgs/whatsapp.svg){ width="50" } &nbsp;&nbsp;
-[![Instagram](imgs/instagram.svg){ width="50" }](https://www.instagram.com/mikelimaz_) &nbsp;&nbsp;
+![WhatsApp](imgs/whatsapp.svg){ width="50" .contact-btn data-platform="whatsapp" } &nbsp;&nbsp;
+![Instagram](imgs/instagram.svg){ width="50" .contact-btn data-platform="instagram" } &nbsp;&nbsp;

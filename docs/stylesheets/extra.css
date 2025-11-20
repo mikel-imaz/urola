@@ -6,3 +6,12 @@
   margin: 0.6rem auto 0;    /* center horizontally, add a little top gap */
   text-align: center;       /* center icon/text inside the button if needed */
 }
+
+.contact-btn {
+  transition: transform 0.2s, opacity 0.2s;
+}
+
+.contact-btn:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+}
