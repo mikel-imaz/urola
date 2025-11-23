@@ -4,9 +4,9 @@ icon: material/camera
 
 # :material-camera: &nbsp; Fotos
 
-!!! info "Galería de imágenes"
+!!! info "Galería de imágenes: clic en la foto para entrar"
 
-    En el móvil, __para salir de la galería__ toca en cualquier punto fuera de la foto o arrastra la foto fuera.
+    __En el móvil, para salir de la galería__ toca en cualquier punto fuera de la foto o arrástrala fuera.
 
 <div id="gallery" class="photo-grid">
 
