@@ -9,7 +9,7 @@ icon: material/book-open-blank-variant-outline
 &nbsp;
 
 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/_cHdx62ZWb0"
+  src="https://www.youtube.com/embed/mlxv2oKePEc"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -18,30 +18,14 @@ icon: material/book-open-blank-variant-outline
 
 &nbsp;
 
-<div style="text-align:center; margin:0; padding:0;">
-  <p style="font-size:1.6em; font-weight:bold; margin:0;">UROLA</p>
-  <p style="font-size:1.4em; font-weight:bold; margin:0;">Camino de hierro y agua</p>
-</div>
+# Urola. Camino de hierro y agua
 
-<div class="grid cards" markdown>
+<p align="left" style="font-size: 1.1em;">Un recorrido de tres días y varios siglos por la historia y los parajes únicos de este valle.</p>
 
-- ![librorretrato](imgs/20251116_133006.jpg)
+<p align="left" style="font-size: 1.1em;">Una indagación del progreso, la naturaleza y el tiempo.</p>
 
-- 
+<p align="left" style="font-size: 1.1em;">Una invitación a la exploración de cercanía, al descubrimiento y al asombro.</p>
 
-    &nbsp;
-    
-    <p align="center" style="font-size: 1.1em;">Un recorrido de tres días y varios siglos por la historia y los parajes únicos de este valle.</p>
-
-    <p align="center" style="font-size: 1.4em;">= ≈</p>
-
-    <p align="center" style="font-size: 1.1em;">Una indagación del progreso, la naturaleza y el tiempo.</p>
-
-    <p align="center" style="font-size: 1.4em;">= ≈</p>
-
-    <p align="center" style="font-size: 1.1em;">Una invitación a la exploración de cercanía, al descubrimiento y al asombro.</p>
-
-</div>
 
 &nbsp;
 

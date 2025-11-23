@@ -30,6 +30,34 @@
   text-decoration: underline;
 }
 
+.photo-gridv {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.photo-gridv a {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 4; /* force aspect ratio tiles */
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.photo-gridv img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* crop vertical images */
+}
+
+.photo-gridv img {
+  transition: transform 0.25s ease;
+}
+
+.photo-gridv a:hover img {
+  transform: scale(1.05);
+}
+
 
   
   

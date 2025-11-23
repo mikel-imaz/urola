@@ -4,9 +4,7 @@ icon: material/rss
 
 # :material-rss: &nbsp; Medios
 
-> Apariciones en ferias, presentaciones, prensa...
-
-Para estar al día con las últimas novedades y próximos eventos, sígueme en [Instagram](https://www.instagram.com/mikelimaz_) [![Instagram](imgs/instagram.svg){ width="20" }](https://www.instagram.com/mikelimaz_)
+> Para estar al día con las últimas novedades y próximos eventos, sígueme en [Instagram](https://www.instagram.com/mikelimaz_) [![Instagram](../imgs/instagram.svg){ width="20" }](https://www.instagram.com/mikelimaz_)
 
 ---
 
@@ -24,15 +22,13 @@ __:octicons-pin-16: &nbsp; Próximas citas:__
     :material-clock-outline: &nbsp; 10:00-15:00
 
 
-- __Presentaciones__
+- 
 
-    ---
-
-    :material-rss: &nbsp; Conversaciones con l@s lectoras  
-    :material-map-marker-radius: &nbsp; Urretxu / Zumarraga  
-    :material-calendar: &nbsp; Enero-febrero de 2026
 
 </div>
+
+---
+
 
 <!-- ## ¡Lanzamiento! :material-rocket-launch:
 > 2025-11-04

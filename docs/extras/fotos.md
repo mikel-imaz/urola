@@ -6,7 +6,7 @@ icon: material/camera
 
 !!! info "Galería de imágenes"
 
-    Una vez dentro, __para salir de la galería__ toca o haz clic en cualquier punto fuera de la foto.
+    En el móvil, __para salir de la galería__ toca en cualquier punto fuera de la foto o arrastra la foto fuera.
 
 <div id="gallery" class="photo-grid">
 

@@ -36,7 +36,9 @@ nav:
   - Inicio: index.md
   - Libro: libro.md
   - Comprar: comprar.md
-  - Medios: medios.md
+  - Medios:
+    - medios/index.md
+    - Galería: medios/galeria.md
   - Extras:
     - extras/index.md
     - Fotos: extras/fotos.md
