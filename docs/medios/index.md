@@ -1,8 +1,8 @@
 ---
-icon: material/rss
+icon: material/antenna
 ---
 
-# :material-rss: &nbsp; Medios
+# :material-antenna: &nbsp; Medios
 
 > Para estar al día con las últimas novedades y próximos eventos, sígueme en [Instagram](https://www.instagram.com/mikelimaz_) [![Instagram](../imgs/instagram.svg){ width="20" }](https://www.instagram.com/mikelimaz_)
 
@@ -22,15 +22,25 @@ __:octicons-pin-16: &nbsp; Próximas citas:__
     :material-clock-outline: &nbsp; 10:00-15:00
 
 
-- 
+- __Presentación__
+
+    ---
+
+    :material-rss: &nbsp; Presentación del libro  
+    :material-map-marker-radius: &nbsp; Legazpiko Kultur Etxean    
+    :material-calendar: &nbsp;  enero 2026  
+    :material-clock-outline: &nbsp;
+
+- __Encuentro__
+
+    ---
+
+    :material-rss: &nbsp; Charla con el público lector   
+    :material-map-marker-radius: &nbsp; Urretxuko liburutegian    
+    :material-calendar: &nbsp;  febrero 2026  
+    :material-clock-outline: &nbsp;
 
 
 </div>
 
 ---
-
-
-<!-- ## ¡Lanzamiento! :material-rocket-launch:
-> 2025-11-04
-
-Edición de tapa blanda ya disponible en [Amazon](https://amzn.eu/d/iWajvuT). :partying_face: -->

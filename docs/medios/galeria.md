@@ -2,7 +2,7 @@
 icon: material/image
 ---
 
-# Galería
+# :material-image: &nbsp; Galería
 
 !!! info "Galería: clic en la foto para entrar"
 
