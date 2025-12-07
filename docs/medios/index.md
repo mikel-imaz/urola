@@ -4,7 +4,7 @@ icon: material/antenna
 
 # :material-antenna: &nbsp; Medios
 
-> Para estar al día con las últimas novedades y próximos eventos, sígueme en [Instagram](https://www.instagram.com/mikelimaz_) [![Instagram](../imgs/instagram.svg){ width="20" }](https://www.instagram.com/mikelimaz_)
+> Sígueme en [Instagram](https://www.instagram.com/mikelimaz_) [![Instagram](../imgs/instagram.svg){ width="20" }](https://www.instagram.com/mikelimaz_)
 
 ---
 

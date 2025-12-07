@@ -49,7 +49,7 @@ icon: material/book-open-blank-variant-outline
 
 <div class="grid cards" markdown>
 
-- :material-rss: &nbsp; [Medios](medios.md)
+- :material-antenna: &nbsp; [Medios](medios.md)
 - :material-paperclip: &nbsp; [Extras](extras/index.md)
 - :material-bookshelf: &nbsp; [Otro viaje](otro.md)
 - :material-face-man: &nbsp; [Contacto](contacto.md)
