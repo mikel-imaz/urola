@@ -6,12 +6,21 @@ icon: material/broadcast
 
 ---
 
-## :material-newspaper-variant: &nbsp; Reportaje en _Noticias de Gipuzkoa_
+## :material-newspaper-variant: &nbsp; _Goierriko Hitza_, _Otamotz_
+> 2025-12-09
+
+Asier Zalduak idatzitako artikuluak [Goierriko Hitzan](https://goierri.hitza.eus/2025/12/09/otamotz-mikel-imaz-urretxuarrak-urola-haranari-buruzko-bidaia-liburua-argitaratu-du/) eta [Otamotzen](https://www.otamotz.eus/2025/12/09/mikel-imaz-urretxuarrak-urola-haranari-buruzko-bidaia-liburua-argitaratu-du/).
+
+[![](../imgs/otamotz.jpg){ width="450" }](https://www.otamotz.eus/2025/12/09/mikel-imaz-urretxuarrak-urola-haranari-buruzko-bidaia-liburua-argitaratu-du/)
+
+PDF :material-arrow-right: [:fontawesome-regular-file-pdf:](../pdfs/GoierrikoHitza.pdf)
+
+## :material-newspaper-variant: &nbsp; _Noticias de Gipuzkoa_
 > 2025-12-07
 
 Asier Zaldua me dedica [este reportaje en el diario _Noticias de Gipuzkoa_](https://www.noticiasdegipuzkoa.eus/gipuzkoa/bertan/2025/12/07/valle-urola-libro-viaje-10440012.html).
 
-[![](../imgs/El-valle-del-Urola-por-fin-tiene-su-libro-de-viaje_.png)](https://www.noticiasdegipuzkoa.eus/gipuzkoa/bertan/2025/12/07/valle-urola-libro-viaje-10440012.html)
+[![](../imgs/noticiasgipuzkoa.jpg){ width="450" }](https://www.noticiasdegipuzkoa.eus/gipuzkoa/bertan/2025/12/07/valle-urola-libro-viaje-10440012.html)
 
 PDF :material-arrow-right: [:fontawesome-regular-file-pdf:](../pdfs/El%20valle%20del%20Urola%20por%20fin%20tiene%20su%20libro%20de%20viaje.pdf)
 
