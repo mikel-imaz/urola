@@ -18,8 +18,8 @@ __:octicons-pin-16: &nbsp; Próximas citas:__
 
     :material-rss: &nbsp; [Arte y artesanía de Urola Garaia](https://www.instagram.com/madeinurola/)  
     :material-map-marker-radius: &nbsp; Zumarragako plazan  
-    :material-calendar: &nbsp; 21 diciembre y 4 enero  
-    :material-clock-outline: &nbsp; 10:00-15:00
+    :material-calendar: &nbsp; 4 de enero de 2026  
+    :material-clock-outline: &nbsp; 10:00-14:30
 
 
 - __Presentación__
@@ -28,8 +28,8 @@ __:octicons-pin-16: &nbsp; Próximas citas:__
 
     :material-rss: &nbsp; Presentación del libro  
     :material-map-marker-radius: &nbsp; Legazpiko Kultur Etxean    
-    :material-calendar: &nbsp;  enero 2026  
-    :material-clock-outline: &nbsp;
+    :material-calendar: &nbsp;  29 de enero de 2026, jueves  
+    :material-clock-outline: &nbsp; 19:00  
 
 - __Encuentro__
 

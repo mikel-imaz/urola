@@ -38,6 +38,7 @@ nav:
   - Comprar: comprar.md
   - Medios:
     - medios/index.md
+    - Eventos: medios/eventos.md
     - Prensa: medios/prensa.md
     - Galería: medios/galeria.md
   - Extras:

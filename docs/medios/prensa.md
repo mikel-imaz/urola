@@ -15,6 +15,8 @@ Asier Zalduak idatzitako artikuluak [Goierriko Hitzan](https://goierri.hitza.eus
 
 PDF :material-arrow-right: [:fontawesome-regular-file-pdf:](../pdfs/GoierrikoHitza.pdf)
 
+---
+
 ## :material-newspaper-variant: &nbsp; _Noticias de Gipuzkoa_
 > 2025-12-07
 
