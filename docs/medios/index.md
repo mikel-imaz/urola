@@ -12,15 +12,6 @@ __:octicons-pin-16: &nbsp; Próximas citas:__
 
 <div class="grid cards" markdown>
 
-- __Feria__
-
-    ---
-
-    :material-rss: &nbsp; [Arte y artesanía de Urola Garaia](https://www.instagram.com/madeinurola/)  
-    :material-map-marker-radius: &nbsp; Zumarragako plazan  
-    :material-calendar: &nbsp; 4 de enero de 2026  
-    :material-clock-outline: &nbsp; 10:00-14:30
-
 
 - __Presentación__
 
@@ -42,5 +33,3 @@ __:octicons-pin-16: &nbsp; Próximas citas:__
 
 
 </div>
-
----
