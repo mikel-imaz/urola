@@ -20,6 +20,7 @@ __:octicons-pin-16: &nbsp; Próximas citas:__
     :material-map-marker-radius: &nbsp; Legazpiko Kultur Etxean    
     :material-calendar: &nbsp;  29/01/2026  
     :material-clock-outline: &nbsp; 19:00  
+    &nbsp;
     ![](../imgs/legazpi_aurkezpena.jpeg)
 
 - __:material-rss: &nbsp; Urretxu__
