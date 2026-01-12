@@ -13,23 +13,22 @@ __:octicons-pin-16: &nbsp; Próximas citas:__
 <div class="grid cards" markdown>
 
 
-- __Presentación__
+- __:material-rss: &nbsp; Legazpi__
 
     ---
 
-    :material-rss: &nbsp; Presentación del libro  
     :material-map-marker-radius: &nbsp; Legazpiko Kultur Etxean    
-    :material-calendar: &nbsp;  29 de enero de 2026, jueves  
+    :material-calendar: &nbsp;  29/01/2026  
     :material-clock-outline: &nbsp; 19:00  
+    ![](../imgs/legazpi_aurkezpena.jpeg)
 
-- __Encuentro__
+- __:material-rss: &nbsp; Urretxu__
 
     ---
 
-    :material-rss: &nbsp; Charla con el público lector   
     :material-map-marker-radius: &nbsp; Urretxuko liburutegian    
-    :material-calendar: &nbsp;  febrero 2026  
-    :material-clock-outline: &nbsp;
+    :material-calendar: &nbsp;  24/02/2026  
+    :material-clock-outline: &nbsp; 19:00
 
 
 </div>
