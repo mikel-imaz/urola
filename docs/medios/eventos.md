@@ -1,8 +1,13 @@
 ---
-icon: material/human-queue
+icon: material/broadcast
 ---
 
-# :material-human-queue: &nbsp; Eventos
+# :material-broadcast: &nbsp; Eventos
+
+---
+
+## :material-human-queue: &nbsp; Presentación en Legazpi
+> 2026-01-28, Legazpiko Kultur Etxean
 
 ---
 
