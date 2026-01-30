@@ -7,7 +7,9 @@ icon: material/broadcast
 ---
 
 ## :material-human-queue: &nbsp; Presentación en Legazpi
-> 2026-01-28, Legazpiko Kultur Etxean
+> 2026-01-29, Legazpiko Kultur Etxean
+
+![](../imgs/evento_legazpi.jpg){ width="650" }
 
 ---
 
