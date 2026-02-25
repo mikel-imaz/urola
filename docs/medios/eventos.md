@@ -6,6 +6,15 @@ icon: material/broadcast
 
 ---
 
+## :material-human-queue: &nbsp; Presentación en Urretxu
+> 2026-02-24, Urretxuko liburutegian
+
+![](../imgs/evento_urretxu.jpg){ width="650" }
+
+![](../imgs/Otamotz_urretxu_aurkezpena.png){ width="650" }
+
+---
+
 ## :material-human-queue: &nbsp; Presentación en Legazpi
 > 2026-01-29, Legazpiko Kultur Etxean
 
