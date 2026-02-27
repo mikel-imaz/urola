@@ -4,6 +4,17 @@ icon: material/radio
 
 # :material-radio: &nbsp; Radio
 
+## Cadena Ser, _Ser viajeros Euskadi_
+> 2026-02-27
+
+Eva Monente me hace [esta entrevista](https://cadenaser.com/euskadi/2026/02/27/el-valle-del-urola-un-viaje-de-hierro-y-agua-desde-el-interior-hasta-el-cantabrico-radio-san-sebastian/) en el programa Ser viajeros Euskadi.
+
+[![](../imgs/cadenaser_urola.jpg){ width="450" }](https://cadenaser.com/euskadi/2026/02/27/el-valle-del-urola-un-viaje-de-hierro-y-agua-desde-el-interior-hasta-el-cantabrico-radio-san-sebastian/)
+
+Archivo MP3 :material-arrow-right: [:fontawesome-solid-ear-listen:](../mp3s/ser_urola.mp3)
+
+---
+
 ## Radio Viajera, _De Donosti al cielo_
 > 2026-02-03
 
