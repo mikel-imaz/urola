@@ -10,11 +10,11 @@ icon: material/image
 
 <div id="gallery" class="photo-gridv">
 
-  <a href="103512.jpg" data-sub-html='<p>Zestoa</p>'>
+  <a href="103512.jpg" data-sub-html='<p>Zumarraga</p>'>
     <img src="103512_thumb.jpg" alt="">
   </a>
 
-  <a href="110023_thumb.jpg" data-sub-html='<p>Zestoa</p>'>
+  <a href="110023.jpg" data-sub-html='<p>Aizpurutxo</p>'>
     <img src="110023_thumb.jpg" alt="">
   </a>
 
@@ -34,11 +34,11 @@ icon: material/image
     <img src="20251116_133006_thumb.jpg" alt="">
   </a>
 
-  <a href="180518.jpg" data-sub-html='<p>Bedua (Zumaia)</p>'>
+  <a href="180518.jpg" data-sub-html='<p>Desembocadura (Zumaia)</p>'>
     <img src="180518_thumb.jpg" alt="">
   </a>
 
-  <a href="131437.jpg" data-sub-html='<p>Bedua (Zumaia)</p>'>
+  <a href="131437.jpg" data-sub-html='<p>Itzurun (Zumaia)</p>'>
     <img src="131437_thumb.jpg" alt="">
   </a>
 
