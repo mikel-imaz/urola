@@ -6,6 +6,17 @@ icon: material/newspaper-variant
 
 ---
 
+## _Argia_
+> 2026-02-18
+
+Jon Torneren [artikulu honetan](https://www.argia.eus/argia-astekaria/2952/urola-garaia-gipuzkoa) agertzen naiz.
+
+[![](../imgs/argia.jpg){ width="450" }](https://www.argia.eus/argia-astekaria/2952/urola-garaia-gipuzkoa)
+
+PDF :material-arrow-right: [:fontawesome-regular-file-pdf:](../pdfs/argia.eus-Urola.pdf)
+
+---
+
 ## _El Diario Vasco_
 > 2026-01-27
 

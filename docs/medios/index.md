@@ -8,22 +8,29 @@ icon: material/antenna
 
 ---
 
-__:octicons-pin-16: &nbsp; Próximas citas:__
-
 <div class="grid cards" markdown>
 
-
-- __:material-rss: &nbsp; Urretxu__
-
-    ---
-
-    :material-map-marker-radius: &nbsp; Urretxuko liburutegian    
-    :material-calendar: &nbsp;  24/02/2026  
-    :material-clock-outline: &nbsp; 19:00
-
-- _
+- :material-broadcast: &nbsp; [Eventos](eventos.md)
 
     ---
+    Presentación en Urretxu  
+    Presentación en Legazpi  
+    Feria en Zumarraga  
 
+- :material-newspaper-variant: &nbsp; [Prensa](prensa.md)
+
+    ---
+    Argia  
+    El Diario Vasco  
+    Goierriko Hitza, Otamotz  
+    Noticias de Gipuzkoa
+
+- :material-radio: &nbsp; [Radio](radio.md)
+
+    ---
+    Cadena Ser  
+    Radio Viajera  
+    Onda Cero  
+    CHHA 1610 AM  
 
 </div>
