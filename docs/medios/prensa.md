@@ -6,6 +6,15 @@ icon: material/newspaper-variant
 
 ---
 
+## _Goiberri_
+> 2026-07-24
+
+Mónica Leiva kazetariak aipatzen nau [Gure odisea](https://goiberri.eus/2026/07/24/monica-leiva-gure-odisea/) izenburua jarri dion artikulu honetan.
+
+PDF :material-arrow-right: [:fontawesome-regular-file-pdf:](../pdfs/goiberri.eus-MonicaLeiva_Gure-odisea.pdf)
+
+---
+
 ## _Argia_
 > 2026-02-18
 

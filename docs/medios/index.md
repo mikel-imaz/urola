@@ -20,6 +20,7 @@ icon: material/antenna
 - :material-newspaper-variant: &nbsp; [Prensa](prensa.md)
 
     ---
+    Goiberri
     Argia  
     El Diario Vasco  
     Goierriko Hitza, Otamotz  
